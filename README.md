@@ -14,3 +14,8 @@ This code just study repository for me.
 If you want to read original book and code, Please refer to the link above.
 
 Thanks.
+
+## Chapter 1. C++ Basic
+---
+
+## Chapter 2. Matrix operation and Parallel Programming for Neural Networks
