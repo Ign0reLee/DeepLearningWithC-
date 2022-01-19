@@ -15,7 +15,12 @@ If you want to read original book and code, Please refer to the link above.
 
 Thanks.
 
+<br/>
+
 ## Chapter 1. C++ Basic
----
+\[[go](./Chapter1)]
+<br/>
 
 ## Chapter 2. Matrix operation and Parallel Programming for Neural Networks
+\[[go](./Chapter2)]
+<br/>
