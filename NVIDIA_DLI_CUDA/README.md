@@ -8,7 +8,7 @@ if want to know more, please contact [Link](!https://www.nvidia.com/ko-kr/traini
 </br>
 
 ## Running Command
----
+
 ```cmd
 nvcc --arch=sm_70 FileName -o FileName.out --run
 ```
